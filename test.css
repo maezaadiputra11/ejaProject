@@ -1,0 +1,12 @@
+p{
+    font-size: 50px;
+    color: #023;    
+}
+
+label{
+    font-size: 20px;
+    color: brown;        
+}
+input{
+    padding: 8px;
+}
